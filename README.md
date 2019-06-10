@@ -7,3 +7,5 @@ Instructions:
 (That's all if you are just removing java)
 3. Download the older version of java you wish to use (if you are downgrading). Java 8 can be found here- https://java.com/en/download/mac_download.jsp
 4. Restart your computer
+
+(Tested on MacOS 10.14 Mojave)
