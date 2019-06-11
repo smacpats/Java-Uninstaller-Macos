@@ -1,5 +1,6 @@
 # Java-Uninstaller-Macos
-A script that will uninstall Java enough to easily downgrade. Should allow you easily to downgrade java 9-12 to 8 to use programs that don't support the newer versions. 
+On a Mac and want to uninstall java 9-12 to just get rid of it, or to downgrade to java 6-8 because of incompatible programs? You’ve came to the right place. I created this script after realizing how annoying installing removing java is without knowing the right commands, so this script will do it all for you. 
+This will remove all versions of JRE and JDK installed on your computer. 
 
 Instructions:
 1. Run "uninstall java.command"
